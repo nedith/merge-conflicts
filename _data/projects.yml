@@ -7,6 +7,7 @@
   duration: 2016 &mdash; Present
   url: "https://github.com/probot/probot"
   description: A framework for building GitHub Apps to automate and improve your workflow
+  Student: Edith
 
 # GitHub Classroom
 - project: GitHub Classroom
@@ -14,3 +15,4 @@
   duration: 2015 &mdash; Present
   url: "https://github.com/education/classroom"
   description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
+  Student: Edith
